@@ -7,4 +7,4 @@ Here I am setting the system properties of chrome driver and specifying the path
 C:\Users\acer\eclipse-workspace\com.test\chromedriver_win32
 
 #### Check code in following path:
-com.test\src\test\
+com.test\src\test\java
